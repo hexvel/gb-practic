@@ -2,7 +2,7 @@ import { KanbanSquare, LayoutDashboard } from 'lucide-react'
 
 import { DASHBOARD_PAGES } from '@/config/pages-url.config'
 
-import { IMenuItem } from '@/interfaces/dashboard.interface'
+import { IMenuItem } from '@/interfaces/course.interface'
 
 export const MENU: IMenuItem[] = [
 	{
