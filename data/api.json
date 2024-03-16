@@ -1,0 +1,5 @@
+{
+	"navigation": "https://gb.ru/api/ui/v2/navigation/items?alias=main&types[]=burger&types[]=teacher-burger&types[]=line&types[]=teacher-line&types[]=profile&types[]=line_second&types[]=button&url=https://gb.ru/lessons/414929",
+	"schedule": "https://gb.ru/api/v2/schedule",
+	"users": "https://gb.ru/api/v2/users/contact_details/UUFDa2trN1QyQ0xWNmk2OUNvNzRzUT09LS15LzdWRG5RSjRrcXVJSVRKWVZwL2pRPT0=--146c7a56b95481e06860233756f56abd8cc224e3"
+}
